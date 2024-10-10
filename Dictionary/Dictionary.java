@@ -8,7 +8,6 @@ class Dictionary{
 	ArrayList<String> dictWords = new ArrayList<String>();
 	ArrayList<Integer> total = new ArrayList<Integer>();
 	String[] alphabet = {"a","b","c","d","e","f","g","h","i","j","k","l","m","n","o","p","q","r","s","t","u","v","w","x","y","z"};
-	String[] example = {"alphabet", "addiction","bog","cog","dylephone","ed"};
 	public Dictionary(){
 		//constructor This Runs when object is created
 	}
